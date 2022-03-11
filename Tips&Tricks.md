@@ -2,9 +2,8 @@
 
 When starting a project, set a colorful tint in play mode to prevent modifying things in play mode and losing it all
 
-![](https://user-images.githubusercontent.com/68881297/157872924-ecc4ebc7-3077-408e-8a18-148b6c770f45.png | width=100)
-![](https://user-images.githubusercontent.com/68881297/157872904-2da208a2-fd04-4927-88bb-45efdece732c.png | width=100)
-
+<img src="https://user-images.githubusercontent.com/68881297/157872924-ecc4ebc7-3077-408e-8a18-148b6c770f45.png" width="400">
+<img src="https://user-images.githubusercontent.com/68881297/157872904-2da208a2-fd04-4927-88bb-45efdece732c.png" width="400">
 
 
 You can reference your gameobjects in the debug.log call

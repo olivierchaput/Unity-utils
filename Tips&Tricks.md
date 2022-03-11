@@ -1,5 +1,12 @@
-<H3> To make sur people don't wrongly call your coroutines, you can declare them as a regular function like this </H3>
+<H1> Simple tips </H1>
 
+You can reference your gameobjects in the debug.log call
+```
+Debug.Log(“This is the gameObject calling the debug log”, gameObject);
+
+```
+
+To make sur people don't wrongly call your coroutines, you can declare them as a regular function like this
 ```
 private Coroutine DoSomething()
 {

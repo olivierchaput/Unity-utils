@@ -1,5 +1,10 @@
 <H1> Simple tips </H1>
 
+When starting a project, set a colorful tint in play mode to prevent modifying things in play mode and losing it all
+![Playmodetint](https://user-images.githubusercontent.com/68881297/157872904-2da208a2-fd04-4927-88bb-45efdece732c.png)
+![tips unity](https://user-images.githubusercontent.com/68881297/157872924-ecc4ebc7-3077-408e-8a18-148b6c770f45.png)
+
+
 You can reference your gameobjects in the debug.log call
 ```
 Debug.Log(“This is the gameObject calling the debug log”, gameObject);

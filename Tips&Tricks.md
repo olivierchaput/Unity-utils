@@ -1,5 +1,5 @@
 <H3> To make sur people don't wrongly call your coroutines, you can declare them as a regular function like this </H3>
-<Code>
+```
 private Coroutine DoSomething()
 {
   return StartCoroutine(DoSomethingCoroutine());
@@ -9,4 +9,4 @@ private Coroutine DoSomething()
     yield return null;
   }
 }
-</Code>
+```

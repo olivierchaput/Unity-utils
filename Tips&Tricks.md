@@ -10,6 +10,4 @@ private Coroutine DoSomething()
     yield return null;
   }
 }
-
-
-
+```
